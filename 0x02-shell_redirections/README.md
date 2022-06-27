@@ -3,4 +3,8 @@ Shell, I/O Redirections and filters
 2. Task 1: Confused smiley: Write a script that displays a confused smiley "(Ôo)'.
 3. Task 2: Let's display a file: Display the content of the /etc/passwd file.
 4. Task 3: What about 2: Display the content of /etc/passwd and /etc/hosts
-5. Task 4: Last lines of a file: Display the last 10 lines of /etc/passwd 
+5. Task 4: Last lines of a file: Display the last 10 lines of /etc/passwd
+6. Task 5: I'd prefer the first ones actually: Display the first 10 lines of /etc/passwd.
+7. Task 6: Line #2: Write a script that displays the third line of the file iacta.
+8. Task 7: It is a good file that cuts iron without making a noise: Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+9. Task 8: Save current state of directory: Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it. 
